@@ -15,5 +15,6 @@ class Exception1
 		int ians = no1 / no2;
 		
 		System.out.println("Division is :" +ians);
+		sobj.close();
 	}
 }
